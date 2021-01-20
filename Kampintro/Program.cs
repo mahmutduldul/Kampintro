@@ -10,8 +10,6 @@ namespace Kampintro
             // do not repeat your self  - kendini tekrarlama
             
             string kategoriEtiketi="Kategori";
-            int ogrenciSayisi = 320000;
-            double faizOrani = 1.35;
             bool sistemGirisYapmismi = true;
             double dolarDun = 7.35;
             double dolarBugun = 7.45;
