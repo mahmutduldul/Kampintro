@@ -10,6 +10,7 @@ namespace GenericsIntro
             MyList<string> name = new MyList<string>();
             name.Add("Mahmut");
 
+            Console.WriteLine(name.l);
 
         }
     }
